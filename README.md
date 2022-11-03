@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfbaldoza&label=Profile%20views&color=0e75b6&style=flat" alt="jfbaldoza" /> </p>
 
-- 🔭 I’m currently working on **my Personal Projects**
+- 🔭 I’m currently taking a **Coding Bootcamp at Coding Dojo**
 
-- 🌱 I’m currently learning **Tailwind, JavaScript, ReactJS and NodeJS**
+- 🌱 I’m currently learning **Web Fundamentals**
 
 - 📫 How to reach me **baldozajan@gmail.com**
 
